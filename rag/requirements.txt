@@ -1,0 +1,4 @@
+faiss-cpu
+sentence-transformers
+openai
+numpy==1.26.4
